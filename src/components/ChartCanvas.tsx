@@ -1,4 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
+// ChartCanvas: renders Bar/Line/Scatter/Pie
 "use client";
 import { Bar, Line, Scatter, Pie } from "react-chartjs-2";
 import {
