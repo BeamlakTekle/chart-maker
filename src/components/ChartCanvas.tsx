@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
 import { Bar, Line, Scatter, Pie } from "react-chartjs-2";
 import {
